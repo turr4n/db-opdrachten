@@ -1,0 +1,6 @@
+Hema varchar(45)
+bedrijf naam: HEMA Varchar(45)
+ndsm-straat 10 varchar(45)
+1033 SB Amsterdam varchar (45)
++31 (0)20 311 4411 Int
+Opdracht 3
